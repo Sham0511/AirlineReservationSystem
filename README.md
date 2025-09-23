@@ -36,12 +36,11 @@ Here are the outputs for the following console based application:
 <img width="489" height="317" alt="image" src="https://github.com/user-attachments/assets/0ef907f9-00d1-4342-bdf5-4d2091383929" />
 <img width="1163" height="206" alt="image" src="https://github.com/user-attachments/assets/b9513c6a-7baf-4aef-8fff-0bab2c42a99f" />
 
-👨‍🎓 Student Details
+ Student Details
 
 Name: SHAM M
 Roll Number: 717823F150
 
-✅ Conclusion
-This project demonstrates a working Airline Reservation System using Java OOP principles, custom exceptions, and modular design. It can be further extended to connect with a real database and provide a GUI/web interface.
+
 Here is the UML class diagram for the application:
 <img width="848" height="982" alt="image" src="https://github.com/user-attachments/assets/bb23a109-3324-414c-a01e-4d89855ac692" />
