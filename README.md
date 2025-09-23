@@ -1,13 +1,13 @@
-# ✈️ Airline Reservation System  
+#  Airline Reservation System  
 
-## 📌 Problem Statement  
+##  Problem Statement  
 The project **Airline Reservation System** is designed to simulate a simple airline booking process.  
 It allows passengers to search for flights, book seats, make payments (via Card or UPI), and generate boarding passes.  
 The system demonstrates the use of **Object-Oriented Programming (OOP) concepts** such as **inheritance, abstraction, encapsulation, polymorphism**, along with **exception handling** and **utility classes**.  
 
 ---
 
-## 🛠️ Features  
+##  Features  
 - Flight management (add/display flights & available seats)  
 - Passenger registration  
 - Seat booking with confirmation/cancellation  
@@ -16,36 +16,9 @@ The system demonstrates the use of **Object-Oriented Programming (OOP) concepts*
 - Exception handling for invalid inputs  
 - Clean modular code with packages (`model`, `exception`, `util`, `main`)  
 
----
-
-## 📂 Project Structure  
-com.kce.airline
-│── model
-│ ├── Flight.java
-│ ├── Aircraft.java
-│ ├── Seat.java
-│ ├── Passenger.java
-│ ├── Booking.java
-│ ├── Payment.java (abstract)
-│ ├── CardPayment.java
-│ ├── UPIPayment.java
-│ └── BoardingPass.java
-│
-│── exception
-│ ├── InvalidBookingException.java
-│ ├── InvalidPaymentException.java
-│ └── SeatNotAvailableException.java
-│
-│── util
-│ └── DatabaseUtil.java
-│
-│── main
-│ └── Main.java
 
 
----
-
-## ▶️ How to Compile & Run  
+##  How to Compile & Run  
 
 ### **1. Clone the repository**  
 
