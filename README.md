@@ -43,4 +43,5 @@ Roll Number: 717823F150
 
 
 Here is the UML class diagram for the application:
-<img width="848" height="982" alt="image" src="https://github.com/user-attachments/assets/bb23a109-3324-414c-a01e-4d89855ac692" />
+<img width="1001" height="1031" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/4e0789dc-4dc9-446d-ac0a-7d79a4a1068c" />
+
